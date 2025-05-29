@@ -26,8 +26,8 @@ const CreateRestaurantForm = () => {
     defaultValues: {
       name: '',
       address: '',
-      latitude: 40.7128,
-      longitude: -74.0060,
+      latitude: 30.06263,
+      longitude: 31.24967,
       //latitude: 23.777176,
       //longitude: 90.399452,
       features: '',
